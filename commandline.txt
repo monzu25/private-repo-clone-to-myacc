@@ -1,0 +1,9 @@
+
+1. copy private repo link.
+2. clone  private  repo into your local Computer folder.
+3. git clone --bare <private repo link>
+4. Create a new repo in your personal account.
+4. get copy only repo link from repo commands
+5. git push --mirror <your repo link> 
+6. git remote set-url origin <your repo link>
+
